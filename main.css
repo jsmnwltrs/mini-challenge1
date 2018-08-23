@@ -1,3 +1,8 @@
 html {
     background-color: lightcoral;
+    color: rgb(93, 255, 239);
+}
+
+.image {
+    max-width: 100%;
 }
